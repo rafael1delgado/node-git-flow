@@ -1,4 +1,4 @@
-# Node Challenge Git 1
+# Node Git Flow
 
 Ejercicios para practicar el git flow: branch, commit, remote remove, checkout, etc.
 
